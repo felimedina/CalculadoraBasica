@@ -21,7 +21,9 @@ namespace CalculadoraBasica
             AritmeticaBasica aritmeticaBasica = new AritmeticaBasica();
             do
             {
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
                 Console.WriteLine("Operaciones Básicas");
+                Console.ForegroundColor = ConsoleColor.White;
                 Console.Write("-------------------------------------\n");
                 Console.WriteLine("1.Suma");
                 Console.WriteLine("2.Resta");
