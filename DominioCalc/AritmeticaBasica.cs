@@ -37,6 +37,10 @@ namespace DominioCalc
             }
             return result;
         }
+        public double PorCiento(double num1,double num2)
+        {
+            return 0.0D;
+        }
 
     }
 }
