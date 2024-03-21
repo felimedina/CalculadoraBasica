@@ -41,6 +41,10 @@ namespace DominioCalc
         {
             return 0.0D;
         }
+        public double RaizCuadrada(double baseN,double exponente)
+        {
+            return 0.0D;
+        }
 
     }
 }
